@@ -1,0 +1,12 @@
+#正确账号密码
+valid_login:
+  username: "emilys"
+  password: "emilyspass"
+#错误密码
+wrong_password:
+  username: "emilys"
+  password: "wrong_password"
+#错误账号
+wrong_username:
+  username: "wrong_user"
+  password: "emilyspass"
