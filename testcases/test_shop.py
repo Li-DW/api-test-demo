@@ -1,5 +1,6 @@
-import pytest
 import allure
+import pytest
+
 from utils.yaml_reader import read_yaml
 
 login_data = read_yaml("data/login_data.yaml")
